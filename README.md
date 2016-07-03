@@ -6,3 +6,7 @@
 - Abrir o arquivo .kar com o Kepler
 - Alterar o diretorio onde estao os arquivos em cada ator
 - Executar
+
+# O Workflow em ação
+
+![workflow](http://g.recordit.co/axf8hNWr44.gif)
