@@ -9,4 +9,4 @@
 
 # O Workflow em ação
 
-![workflow](http://g.recordit.co/axf8hNWr44.gif)
+![workflow](http://g.recordit.co/ZwMmqVCBzO.gif)
